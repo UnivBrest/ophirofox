@@ -79,6 +79,7 @@
     "https://nouveau-europresse-com.ezproxy.univ-paris3.fr/*",
     "https://nouveau-europresse-com.proxy.scd.univ-tours.fr/*",
     "https://nouveau-europresse-com.federation.unimes.fr/*"
+    "https://nouveau.europresse.com.proxy.univ-brest.fr/*"
   ],
   "background": {
     "scripts": [
@@ -592,6 +593,8 @@
           "name": "Université de Versailles St-Quentin-en-Yvelines",
           "AUTH_URL": "https://ezproxy.universite-paris-saclay.fr/login?url=http://nouveau.europresse.com/access/ip/default.aspx?un=U031535T_1"
         }
+        { "name": "Université de Bretagne Occidentale", 
+          "AUTH_URL": "http://scd-proxy.univ-brest.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=OCCIDENTALET_1" }
       ]
     }
   }
